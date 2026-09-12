@@ -1,2 +1,2 @@
-# ordin-recipes
+# odin-recipes
 
